@@ -1,3 +1,3 @@
-# docker-multi-platform-test
+# docker-windows-test
 
-Testing running Docker Windows and Linux images on the same build.
+Testing running Docker Windows images on a build machine without docker desktop installed.
